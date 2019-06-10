@@ -1,0 +1,55 @@
+[{
+    "author": "Dmytro Gladkyi",
+    "authorLink": "https://twitter.com/DmytroGladkyi",
+    "summary": "wrote a new article concerning the usage of Promise based API from a JS library in ReasonML",
+    "linkToArticle": "https://medium.com/@DmytroGladkyi/how-to-use-a-promise-based-api-from-a-javascript-library-in-reasonml-fa2d63e18bbc"
+},
+ {
+     "author": "Guillaume Salles",
+     "authorLink": "https://twitter.com/guillaume_slls",
+     "summary": "created Resuggest - a tool to suggest functions in ReasonML based on input/output parameters",
+     "linkToArticle": "https://twitter.com/guillaume_slls/status/998955795671810049?s=20"
+ },
+ {
+     "author": "ReasonML Dojo",
+     "authorLink": "https://www.meetup.com/ReasonML-STHLM/events/250916529/",
+     "summary": "will take place on May 27. This is a global event with over 25 locations. You can find all events on meetup.com",
+     "linkToArticle": "https://www.meetup.com/en-AU/reasonml-amsterdam/events/250910214/"
+ },
+ {
+     "author": "BuckleScript",
+     "authorLink": "https://bucklescript.github.io/",
+     "summary": "BuckleScript 3.1 was released. Significant changes are: Fast Pipes, Js.Boolean is removed and returned back later in a patch, better debug output for ReasonML records",
+     "linkToArticle": "https://bucklescript.github.io/blog/2018/05/21/release-3-1-0.html"
+ },
+ {
+     "author": "Nik Graf",
+     "authorLink": "https://twitter.com/nikgraf",
+     "summary": "published a ReasonML Course on Egghead.io. It is worth checking out, even if you've written ReasonML before: ",
+     "linkToArticle": "https://egghead.io/courses/get-started-with-reason"
+ },
+ {
+     "author": "David Kopal",
+     "authorLink": "https://twitter.com/coding_lawyer",
+     "summary": "created a tutorial 'Learn ReasonML by building Tic Tac Toe in React'. This is a nice tutorial that goes beyond your typical MVP Todo List.",
+     "linkToArticle": "https://medium.freecodecamp.org/learn-reasonml-by-building-tic-tac-toe-in-react-334203dd513c"
+ },
+ {
+     "author": "Zaiste",
+     "authorLink": "https://hackernoon.com/@zaiste",
+     "summary": "a new post on hackernoon about ReasonReact: 'Reason in a Nutshell'",
+     "linkToArticle": "https://hackernoon.com/reason-in-a-nutshell-getting-started-guide-78c05ebc5d4"
+ },
+ {
+     "author": "Lorefnon.tech",
+     "authorLink": "https://lorefnon.tech/author/waklydwh/",
+     "summary": "a comparison of TypeScript and ReasonML",
+     "linkToArticle": "https://lorefnon.tech/2018/05/13/reasonml-vs-typescript-first-impressions/"
+ },
+ {
+     "author": "BuckleScript Team",
+     "authorLink": "http://bucklescript.github.io",
+     "summary": "A proposed standard library for BuckleScript: Belt. Still in beta, but folks usually report a very smooth upgrade process, so you can try using it",
+     "linkToArticle": "https://bucklescript.github.io/bucklescript/api/Belt.html"
+ }
+]

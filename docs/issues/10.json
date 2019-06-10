@@ -1,0 +1,20 @@
+[
+    {
+        "author": "Reasonable Consulting",
+        "authorLink": "https://reasonable.consulting/",
+        "summary": "Published new ReasonML library 'compare'. It helps building comparators.",
+        "linkToArticle": "https://medium.freecodecamp.org/how-to-get-started-with-reason-cef7ab40660"
+    },
+    {
+        "author": "Cristiano Calcagno",
+        "authorLink": "https://twitter.com/ccrisccris",
+        "summary": "Now you can generate bindings between ReasonML and Flow using their new tool.",
+        "linkToArticle": "https://github.com/cristianoc/genFlow"
+    },
+    {
+        "author": "Reason Prague Meetup",
+        "authorLink": "https://twitter.com/ReasonPrague/",
+        "summary": "Announced a new meetup. They will build something with ReProcessing.",
+        "linkToArticle": "https://twitter.com/ReasonPrague/status/1024614844438335488"
+    }
+]

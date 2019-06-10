@@ -1,0 +1,26 @@
+[
+    {
+	"author": "Nik Graf",
+	"authorLink": "https://twitter.com/nikgraf",
+	"summary": "Опублікував свої слайди про 'Type Systems & Props Design - Exploring PropTypes, TypeScript, Flow & Reason'.",
+	"linkToArticle": "https://twitter.com/nikgraf/status/1068462640958238720"
+    },
+    {
+	"author": "Gabriel Rubens Abreu",
+	"authorLink": "https://twitter.com/_gabrielrubens",
+	"summary": "Як обробляти опціональні значення option(’a) в ReasonML за допомогою Belt.Option.",
+	"linkToArticle": "https://medium.com/astrocoders/handling-optional-values-in-reasonml-with-belt-option-7e907819074b"
+    },
+    {
+	"author": "Khoa Nguyen",
+	"authorLink": "https://twitter.com/thangngoc89",
+	"summary": "Опублікував 'Integrating @reasonml ReasonReact into your existing React app. Happy coding!'.",
+	"linkToArticle": "https://khoanguyen.me/integrating-reason-react-into-your-react-app/"
+    },
+    {
+	"author": "Khoa Nguyen",
+	"authorLink": "https://twitter.com/thangngoc89",
+	"summary": "[Sketch.sh development] Part 2: The engine.",
+	"linkToArticle": "https://khoanguyen.me/sketch/part-2-the-engine/"
+    }
+]

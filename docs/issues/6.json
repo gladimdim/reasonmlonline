@@ -1,0 +1,62 @@
+[
+    {
+	"author": "Seena Burns",
+	"authorLink": "http://seenaburns.com/",
+	"summary": "Created Isolate, an image viewer for the desktop, using Reason React and Electron.",
+	"linkToArticle": "https://github.com/seenaburns/isolate?files=1"
+    },
+    {
+	"author": "Alex Fedoseev",
+	"authorLink": "https://alexfedoseev.com/",
+	"summary": "Published the library 'Formality' for form validations.",
+	"linkToArticle": "https://github.com/alexfedoseev/re-formality"
+    },
+    {
+	"author": "Sam Slotsky",
+	"authorLink": "https://twitter.com/sawtoothsamo",
+	"summary": "Provided an example, on how we can use ReasonReact with Parcel as the bundler.",
+	"linkToArticle": "https://blog.manifold.co/building-reason-react-with-parcel-bundler-cb651278bf47"
+    },
+    {
+	"author": "Prabhakar Ragde",
+	"authorLink": "https://twitter.com/plragde",
+	"summary": "Published his book 'Functional Data Structures' online. It uses OCaml as a language for examples. If you were curious, about how to use classic algorithms using an immutable and functional language like ReasonML, you should definitely read this book.",
+	"linkToArticle": "https://cs.uwaterloo.ca/~plragde/flaneries/FDS/Introduction.html"
+    },
+    {
+	"author": "Kennet Postigo @ ReasonTraining",
+	"authorLink": "https://twitter.com/ReasonTraining",
+	"summary": "Let's make a Binary Search Tree. Great post on how to approach basic data structures with ReasonML.",
+	"linkToArticle": "https://medium.com/reasontraining/lets-make-a-reasonable-binary-search-tree-35628b2c78f7"
+    },
+    {
+	"author": "Hongbo Zhang",
+	"authorLink": "https://twitter.com/bobzhang1988",
+	"summary": "Gave a short talk regarding how to debug code, which compiles from one language into another.",
+	"linkToArticle": "https://twitter.com/reasonconf/status/1012236410206785536?s=21"
+    },
+    {
+	"author": "Glenn Slotte",
+	"authorLink": "https://github.com/glennsl",
+	"summary": "Presented his 'redex' tool for publishing and finding new BuckleScript or ReasonML packages.",
+	"linkToArticle": "https://www.youtube.com/watch?v=I9kjthbRXnc"
+    },
+    {
+	"author": "Steven Scaffidi",
+	"authorLink": "https://twitter.com/Steven_Scaffidi",
+	"summary": "Handling React Native gestures with ReasonML",
+	"linkToArticle": "https://blog.g2i.co/react-native-gesture-handling-with-reasonml-7307151f73f"
+    },
+    {
+	"author": "Mike Grabowski",
+	"authorLink": "https://twitter.com/grabbou",
+	"summary": "Announced a new fork of bs-react-native called Rebolt.",
+	"linkToArticle": "https://blog.callstack.io/announcing-rebolt-207a1686a242"
+    },
+    {
+	"author": "Vladimir Keleshev",
+	"authorLink": "http://keleshev.com/",
+	"summary": "Wrote a post about using polymorphic variants for error handling in OCaml. Read the full article to check out how beautiful his apporach is.",
+	"linkToArticle": "http://keleshev.com/composable-error-handling-in-ocaml"
+    }
+]

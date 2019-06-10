@@ -1,0 +1,15 @@
+html {
+    font-size: 112.5%;
+    line-height: 1.45em;
+
+}
+
+.fake-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+body {
+    font-family: georgia,serif;
+}

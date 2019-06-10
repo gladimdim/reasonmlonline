@@ -1,0 +1,26 @@
+[
+    {
+	"author": "Mateo Barraza",
+	"authorLink": "https://twitter.com/mateobarraza/",
+	"summary": "Як розпочати роботу з ReasonML, Reason React.",
+	"linkToArticle": "https://twitter.com/mateobarraza/status/1062497278307393538?s=20"
+    },
+    {
+	"author": "Nik Graf",
+	"authorLink": "https://twitter.com/nikgraf",
+	"summary": "Перегляньте доклад Nik Graf's про те, як поєднати ReasonML та GraphQL. Презентація відбулась на GraphQLFinland.",
+	"linkToArticle": "https://twitter.com/ReasonLDN/status/1063129280207556608"
+    },
+    {
+	"author": "António N. Monteiro",
+	"authorLink": "https://twitter.com/_anmonteiro",
+	"summary": "Reason та Language Server Protocol: The Landscape.",
+	"linkToArticle": "https://twitter.com/_anmonteiro/status/1063941849746980865"
+    },
+    {
+	"author": "Cyrus Omar",
+	"authorLink": "https://github.com/cyrus-",
+	"summary": "Relit: Типизовані літеральні макроси для Reason.",
+	"linkToArticle": "https://github.com/cyrus-/relit"
+    }
+]

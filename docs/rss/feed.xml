@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Weekly ReasonML Newsletter</title>
+    <link>https://reasonml.online</link>
+    <description>A weekly news about the ReasonML and its ecosystem</description>
+    <item>
+      <title>Weekly Reason Issue #28</title>
+      <link>https://reasonml.online/#archive?issue=28</link>
+      <description>Issue #28 on 3rd of April 2019</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #27</title>
+      <link>https://reasonml.online/#archive?issue=27</link>
+      <description>Issue #27 on 9th of March 2019</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #26</title>
+      <link>https://reasonml.online/#archive?issue=26</link>
+      <description>Issue #26 on 22nd of February 2019</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #25</title>
+      <link>https://reasonml.online/#archive?issue=25</link>
+      <description>Issue #25 on 17th of February 2019</description>
+    </item>
+
+    <item>
+      <title>Weekly Reason Issue #24</title>
+      <link>https://reasonml.online/#archive?issue=24</link>
+      <description>Issue #24 on 4th of January 2019</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #23</title>
+      <link>https://reasonml.online/#archive?issue=23</link>
+      <description>Issue #23 on 14th of December 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #22</title>
+      <link>https://reasonml.online/#archive?issue=22</link>
+      <description>Issue #22 on 22th of October 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #21</title>
+      <link>https://reasonml.online/#archive?issue=21</link>
+      <description>Issue #21 on 12th of October 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #20</title>
+      <link>https://reasonml.online/#archive?issue=20</link>
+      <description>Issue #20 on 28th of October 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #19</title>
+      <link>https://reasonml.online/#archive?issue=19</link>
+      <description>Issue #19 on 20th of October 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #18</title>
+      <link>https://reasonml.online/#archive?issue=18</link>
+      <description>Issue #18 on 14th of October 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #17</title>
+      <link>https://reasonml.online/#archive?issue=17</link>
+      <description>Issue #17 on 28th of September 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #16</title>
+      <link>https://reasonml.online/#archive?issue=16</link>
+      <description>Issue #16 on 21th of September 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #15</title>
+      <link>https://reasonml.online/#archive?issue=15</link>
+      <description>Issue #15 on 14th of September 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #14</title>
+      <link>https://reasonml.online/#archive?issue=14</link>
+      <description>Issue #14 on 6th of September 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #13</title>
+      <link>https://reasonml.online/#archive?issue=13</link>
+      <description>Issue #13 on 25th of August 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #12</title>
+      <link>https://reasonml.online/#archive?issue=12</link>
+      <description>Issue #12 on 17th of August 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #11</title>
+      <link>https://reasonml.online/#archive?issue=11</link>
+      <description>Issue #11 on 10th of August 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #10</title>
+      <link>https://reasonml.online/#archive?issue=10</link>
+      <description>Issue #10 on 3rd of August 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #9</title>
+      <link>https://reasonml.online/#archive?issue=9</link>
+      <description>Issue #9 on 27th of July 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #8</title>
+      <link>https://reasonml.online/#archive?issue=8</link>
+      <description>Issue #8 on 20th of July 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #7</title>
+      <link>https://reasonml.online/#archive?issue=7</link>
+      <description>Issue #7 on 13th of July 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #6</title>
+      <link>https://reasonml.online/#archive?issue=6</link>
+      <description>Issue #6 on 5th of July 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #5</title>
+      <link>https://reasonml.online/#archive?issue=5</link>
+      <description>Issue #5 on 22nd of June 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #4</title>
+      <link>https://reasonml.online/#archive?issue=4</link>
+      <description>Issue #4 on 15th of June 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #3</title>
+      <link>https://reasonml.online/#archive?issue=3</link>
+      <description>Issue #3 on 7th of June 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #2</title>
+      <link>https://reasonml.online/#archive?issue=2</link>
+      <description>Issue #2 on 1st of June 2018</description>
+    </item>
+    <item>
+      <title>Weekly Reason Issue #1</title>
+      <link>https://reasonml.online/#archive?issue=1</link>
+      <description>Issue #1 on 25th of May 2018</description>
+    </item>
+  </channel>
+</rss>

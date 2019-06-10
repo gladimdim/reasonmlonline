@@ -1,0 +1,26 @@
+[
+    {
+	"author": "John Haley",
+	"authorLink": "https://twitter.com/johnhaley81",
+	"summary": "Published his second part of 'Why ReasonML?'.",
+	"linkToArticle": "https://medium.com/@johnhaley81/why-reasonml-part-2-80edae7af42b"
+    },
+    {
+	"author": "Reason Conference",
+	"authorLink": "https://www.reason-conf.com/",
+	"summary": "Announced ReasonML Conference. It will take part in Vienna, Austria. 11-13 of April 2019",
+	"linkToArticle": "https://www.reason-conf.com/"
+    },
+    {
+	"author": "Cristiano Calcagno",
+	"authorLink": "https://github.com/cristianoc",
+	"summary": "Published a npm package. It allows to create bindings for JavaScript in your ReasonML code.",
+	"linkToArticle": "https://github.com/cristianoc/genType"
+    },
+    {
+	"author": "Murphy Randle",
+	"authorLink": "https://twitter.com/splodingsocks",
+	"summary": "An approach to handling errors in ReasonML Express Web App",
+	"linkToArticle": "https://twitter.com/splodingsocks/status/1058477654507106304?s=20"
+    }
+]

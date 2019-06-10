@@ -1,0 +1,32 @@
+[
+    {
+	"author": "Protoship",
+	"authorLink": "https://github.com/protoship",
+	"summary": "Адаптували задачі з курсів Jane Street до мови ReasonML. Ви можете виконувати ці задачі, щоб ознайомиться з мовою.",
+	"linkToArticle": "https://github.com/protoship/learn-reasonml-workshop"
+    },
+    {
+	"author": "Kent C. Dodds",
+	"authorLink": "https://twitter.com/kentcdodds",
+	"summary": "Опублікував статтю 'Введення в синтаксис ReasonML з позиції JavaScript розробника'.",
+	"linkToArticle": "https://www.youtube.com/watch?v=sOgJTcB4Tb8"
+    },
+    {
+	"author": "Peter Piekarczyk",
+	"authorLink": "https://twitter.com/peterpme",
+	"summary": "Виклав в загальний доступ свої слайди з презентації на ReactJSChicago: 'ReasonML - A Love Story'.",
+	"linkToArticle": "https://twitter.com/peterpme/status/1015307178880765952?s=17"
+    },
+    {
+	"author": "BuckleScript",
+	"authorLink": "https://bucklescript.github.io/",
+	"summary": "Випустили нову версію компілятора BuckleScript 4.0.",
+	"linkToArticle": "https://bucklescript.github.io/blog/2018/07/17/release-4-0-0"
+    },
+    {
+	"author": "Javier Chávarri",
+	"authorLink": "https://medium.com/@javierwchavarri",
+	"summary": "Написав статтю (в квітні), в якій розбирається, чому результат компіляції незмінних структур даних настільки швидкий в BuckleScript.",
+	"linkToArticle": "https://medium.com/@javierwchavarri/performance-of-records-in-bucklescript-ecf6566fff5c"
+    }
+]

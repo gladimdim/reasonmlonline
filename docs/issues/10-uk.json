@@ -1,0 +1,20 @@
+[
+    {
+        "author": "Reasonable Consulting",
+        "authorLink": "https://reasonable.consulting/",
+        "summary": "Опублікували нову ReasonML бібліотеку 'compare'. Вона допоможе вам будувати власні компаратори",
+        "linkToArticle": "https://medium.freecodecamp.org/how-to-get-started-with-reason-cef7ab40660"
+    },
+    {
+        "author": "Cristiano Calcagno",
+        "authorLink": "https://twitter.com/ccrisccris",
+        "summary": "Тепер ви можете генерувати зв'язки між ReasonML та Flow за допомогою їхнього нового інструментарію.",
+        "linkToArticle": "https://github.com/cristianoc/genFlow"
+    },
+    {
+        "author": "Reason Prague Meetup",
+        "authorLink": "https://twitter.com/ReasonPrague/",
+        "summary": "Оголосили про новий збір Різоністів в Празі в наступну середу.",
+        "linkToArticle": "https://twitter.com/ReasonPrague/status/1024614844438335488"
+    }
+]

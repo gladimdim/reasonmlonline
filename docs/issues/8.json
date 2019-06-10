@@ -1,0 +1,26 @@
+[
+    {
+	"author": "ReasonML London",
+	"authorLink": "https://twitter.com/ReasonLDN",
+	"summary": "Announced next meet-up in London in late August.",
+	"linkToArticle": "https://twitter.com/ReasonLDN/status/1017721549120405505"
+    },
+    {
+	"author": "Anton Bachin",
+	"authorLink": "https://github.com/aantron",
+	"summary": "Published another library for Promises in ReasonML",
+	"linkToArticle": "https://github.com/aantron/repromise#readme"
+    },
+    {
+	"author": "Khoa Nguyen",
+	"authorLink": "https://twitter.com/thangngoc89",
+	"summary": "Introduced new ReasonML online REPL",
+	"linkToArticle": "https://twitter.com/thangngoc89/status/1019704803742474240?s=20"
+    },
+    {
+	"author": "A. Sharif",
+	"authorLink": "https://twitter.com/sharifsbeat",
+	"summary": "Started a thread, where he will implement each day a new data structures using ReasonML",
+	"linkToArticle": "https://twitter.com/sharifsbeat/status/1019898141737390080"
+    }
+]

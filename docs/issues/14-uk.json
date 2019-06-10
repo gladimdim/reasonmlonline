@@ -1,0 +1,20 @@
+[
+    {
+        "author": "Louis Roché",
+        "authorLink": "https://khady.info/",
+        "summary": "Вступ до opam для користувачів npm/yarn.",
+        "linkToArticle": "https://khady.info/opam-npm.html"
+    },
+    {
+        "author": " 🔥?  🐦 : ",
+        "authorLink": "https://twitter.com/chekofif",
+        "summary": "HighlightJS тепер підтримує синтаксис ReasonML.",
+        "linkToArticle": "https://twitter.com/chekofif/status/1036228293874380800?s=20"
+    },
+    {
+        "author": "Ken Wheeler",
+        "authorLink": "https://twitter.com/ken_wheeler",
+        "summary": "Ken Wheeler - ReasonML is Serious Business.",
+        "linkToArticle": "https://www.youtube.com/watch?time_continue=1265&v=lzEweA7RPi0"
+    }
+]

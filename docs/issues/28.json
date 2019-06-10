@@ -1,0 +1,32 @@
+[
+	{
+		"author": "David Kopal",
+		"authorLink": "https://medium.com/@paulbiggarf",
+		"summary": "Here's his free ReasonML video course 🎉🎉🎉. It's more than five hours of beginner-friendly content covering #reasonml and #functionalProgramming 😱. So, keep calm and learn ReasonML.",
+		"linkToArticle": "https://twitter.com/coding_lawyer/status/11130883036817326080"
+	},
+	{
+		"author": "Matt Marcello",
+		"authorLink": "https://twitter.com/marceh0le/",
+		"summary": "Ported a swift music theory library to @reasonml.",
+		"linkToArticle": "https://twitter.com/marceh0le/status/1105178484865929216?s=20"
+	},
+	{
+		"author": "TheDiff",
+		"authorLink": "https://anchor.fm/thediff",
+		"summary": "[PODCAST] The Birth of React and Reason",
+		"linkToArticle": "https://anchor.fm/thediff/episodes/The-Birth-of-React-and-Reason-e3cj3h"
+	},
+	{
+		"author": "Raphael Rafatpanah",
+		"authorLink": "https://twitter.com/RRafatpanah",
+		"summary": "Wrote a book 'ReasonML Quick Start Guide'.",
+		"linkToArticle": "https://twitter.com/RRafatpanah/status/1105899090590748674?s=20"
+	},
+	{
+		"author": "Paul Biggar",
+		"authorLink": "https://medium.com/@paulbiggarf",
+		"summary": "Tablecloth: a new standard library for OCaml & ReasonML.",
+		"linkToArticle": "https://medium.com/darklang/tablecloth-a-new-standard-library-for-ocaml-reasonml-d29a73a557b1"
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"author": "David Kopal",
+		"authorLink": "https://medium.com/@paulbiggarf",
+		"summary": "Став доступним його відео курс 🎉🎉🎉. Це більше ніж 5 годин відео, які підійдуть навіть початківцям.",
+		"linkToArticle": "https://twitter.com/coding_lawyer/status/11130883036817326080"
+	},
+	{
+		"author": "Matt Marcello",
+		"authorLink": "https://twitter.com/marceh0le/",
+		"summary": "Портував бібліотеку на swift з музикальною теорією на @reasonml.",
+		"linkToArticle": "https://twitter.com/marceh0le/status/1105178484865929216?s=20"
+	},
+	{
+		"author": "TheDiff",
+		"authorLink": "https://anchor.fm/thediff",
+		"summary": "[ПОДКАСТ] Початок React та ReasonML",
+		"linkToArticle": "https://anchor.fm/thediff/episodes/The-Birth-of-React-and-Reason-e3cj3h"
+	},
+	{
+		"author": "Raphael Rafatpanah",
+		"authorLink": "https://twitter.com/RRafatpanah",
+		"summary": "Написав книгу 'ReasonML Quick Start Guide'.",
+		"linkToArticle": "https://twitter.com/RRafatpanah/status/1105899090590748674?s=20"
+	},
+	{
+		"author": "Paul Biggar",
+		"authorLink": "https://medium.com/@paulbiggarf",
+		"summary": "Tablecloth: нова стандартна бібліотека для OCaml та ReasonML.",
+		"linkToArticle": "https://medium.com/darklang/tablecloth-a-new-standard-library-for-ocaml-reasonml-d29a73a557b1"
+	}
+]

@@ -1,0 +1,38 @@
+[
+    {
+	"author": "Jake Trent",
+	"authorLink": "https://twitter.com/jaketrent/",
+	"summary": "Wrote a tutorial about writing unit tests for ReasonML code. He uses bindings with Jest, so everything should be familiar to you.",
+	"linkToArticle": "https://jaketrent.com/post/unit-testing-in-reasonml/"
+    },
+    {
+	"author": "Jared Palmer",
+	"authorLink": "https://twitter.com/jaredpalmer",
+	"summary": "Reason React is supported by his Razzle SSR framework. It is a zero-configuration based packaging solution for your universal JS app.",
+	"linkToArticle": "https://github.com/jaredpalmer/razzle/tree/master/examples/with-reason-react"
+    },
+    {
+	"author": "Mateusz Zatorski",
+	"authorLink": "https://mobile.twitter.com/matzatorski/",
+	"summary": "Published another set of bindings for react-native called Rebolt.",
+	"linkToArticle": "https://rebolt.callstack.com"
+    },
+    {
+	"author": "Alex Fedoseev",
+	"authorLink": "https://github.com/alexfedoseev/",
+	"summary": "Created a drag-and-drop library in Reason.",
+	"linkToArticle": "https://github.com/alexfedoseev/re-dnd"
+    },
+    {
+	"author": "Vladimir Novick",
+	"authorLink": "https://twitter.com/VladimirNovick",
+	"summary": "Gave a short talk about React Native at Reason Conf 2018.",
+	"linkToArticle": "https://www.youtube.com/watch?v=fuOxPzoqfz8"
+    },
+    {
+	"author": "Vladimir Novick",
+	"authorLink": "https://twitter.com/VladimirNovick",
+	"summary": "Provided slides on why ReasonML is awesome 😁",
+	"linkToArticle": "https://www.beautiful.ai/player/-LFVmd97j0a1_368jJNf"
+    }
+]

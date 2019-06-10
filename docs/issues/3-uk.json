@@ -1,0 +1,50 @@
+[
+ {
+     "author": "Vladimir Novick",
+     "authorLink": "https://twitter.com/VladimirNovick",
+     "summary": "Підбив підсумки ReasonConf 2018. Він дуже детально розповідає про доповіді, dojo сесії та інші активності. Якщо ви не хочете дивитися усі відео з конференції, то можете просто прочитати ці підсумки.",
+     "linkToArticle": "https://medium.com/@VladimirNovick/reasonml-conference-2018-8283b1e4c437"     
+ },
+ {
+     "author": "Michele Riva",
+     "authorLink": "https://medium.com/@micheleriva",
+     "summary": "Описав загальні враження про ReasonML",
+     "linkToArticle": "https://medium.com/@micheleriva/better-javascript-with-reasonml-6d5ba70f70e8"
+ },
+ {
+     "author": "Sander Spies",
+     "authorLink": "https://twitter.com/Sander_Spies",
+     "summary": "Зробив допис про його шлях в WebAssembly разом з ReasonML.",
+     "linkToArticle": "https://www.youtube.com/watch?v=v4MHUbIWNZ8"
+ },
+ {
+     "author": "António Nuno Monteiro",
+     "authorLink": "https://github.com/anmonteiro",
+     "summary": "Створив приклад на ReasonML, де написав серверну і клієнтську частину на одній мові зі спільним описанням типів.",
+     "linkToArticle": "https://github.com/anmonteiro/reason-graphql-fullstack"
+ },
+ {
+     "author": "Alexander Annas",
+     "authorLink": "https://twitter.com/alliannas",
+     "summary": "Запустив свою першу ReasonReact Native програму.",
+     "linkToArticle": "https://twitter.com/alliannas/status/1004373804041293826"
+ },
+ {
+     "author": "Roman Schiefer",
+     "authorLink": "https://twitter.com/RSchiefer",
+     "summary": "Розповів, як ReasonML може бути введеним в великі IT компанії.",
+     "linkToArticle": "https://www.youtube.com/watch?v=4NUop_F7HkM"
+ },
+ {
+     "author": "Javier Chávarri",
+     "authorLink": "https://twitter.com/javierwchavarri",
+     "summary": "Доповідь про стан інтеграції ReasonML в текстових редакторах.",
+     "linkToArticle": "https://www.youtube.com/watch?v=DSBjt5bORck"
+ },
+ {
+     "author": "Reason Town Podcast",
+     "authorLink": "https://reason.town/episodes",
+     "summary": "Випустили новий епізод 'GraphQL' разом з Jared Forsyth. Вони торкнулися GraphQL та ReasonML.",
+     "linkToArticle": "https://reason.town/graphql"
+ } 
+]

@@ -1,0 +1,26 @@
+[
+    {
+	"author": "Mateo Barraza",
+	"authorLink": "https://twitter.com/mateobarraza/",
+	"summary": "How to get started with ReasonML, Reason React.",
+	"linkToArticle": "https://twitter.com/mateobarraza/status/1062497278307393538?s=20"
+    },
+    {
+	"author": "Nik Graf",
+	"authorLink": "https://twitter.com/nikgraf",
+	"summary": "Watch Nik Graf's talk combining ReasonML and GraphQL presented at GraphQLFinland.",
+	"linkToArticle": "https://twitter.com/ReasonLDN/status/1063129280207556608"
+    },
+    {
+	"author": "António N. Monteiro",
+	"authorLink": "https://twitter.com/_anmonteiro",
+	"summary": "Reason and the Language Server Protocol: The Landscape.",
+	"linkToArticle": "https://twitter.com/_anmonteiro/status/1063941849746980865"
+    },
+    {
+	"author": "Cyrus Omar",
+	"authorLink": "https://github.com/cyrus-",
+	"summary": "Relit: Typed Literal Macros for Reason.",
+	"linkToArticle": "https://github.com/cyrus-/relit"
+    }
+]

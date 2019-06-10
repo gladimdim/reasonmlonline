@@ -1,0 +1,26 @@
+[
+    {
+	"author": "John Haley",
+	"authorLink": "https://twitter.com/johnhaley81",
+	"summary": "Опублікував другу частину із серії 'Why ReasonML?",
+	"linkToArticle": "https://medium.com/@johnhaley81/why-reasonml-part-2-80edae7af42b"
+    },
+    {
+	"author": "Reason Conference",
+	"authorLink": "https://www.reason-conf.com/",
+	"summary": "Оголосили про другу ReasonML конференцію. Вона пройде у Відні, Австрія, з 11 по 13 квітня 2019 року.",
+	"linkToArticle": "https://www.reason-conf.com/"
+    },
+    {
+	"author": "Cristiano Calcagno",
+	"authorLink": "https://github.com/cristianoc",
+	"summary": "Опублікував пакет на npm, який дозволяє створювати зв'язки з об'єктами JavaScript.",
+	"linkToArticle": "https://github.com/cristianoc/genType"
+    },
+    {
+	"author": "Murphy Randle",
+	"authorLink": "https://twitter.com/splodingsocks",
+	"summary": "Підхід до обробки помилок в ReasonML Express Web програмах.",
+	"linkToArticle": "https://twitter.com/splodingsocks/status/1058477654507106304?s=20"
+    }
+]

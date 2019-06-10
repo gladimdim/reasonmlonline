@@ -1,0 +1,49 @@
+[{
+    "author": "ReasonML",
+    "authorLink": "https://reasonml.github.io",
+    "summary": "Version 3.2.0 of ReasonML was published. Improvements include: refmt improvements, semicolon insertions, functors in JSX Tags and much more. Read the full change log for more info",
+    "linkToArticle": "https://reasonml.github.io/blog/2018/05/25/reason-3.2.0.html"
+},
+ {
+     "author": "Demangeon Julien",
+     "authorLink": "https://twitter.com/juliendemangeon",
+     "summary": "He shares his experiences with ReasonML typings when using ReasonML and ReasonReact",
+     "linkToArticle": "https://marmelab.com/blog/2018/04/09/enjoy-painless-typing-with-reason.html"
+ },
+ {
+     "author": "Mateusz Zatorski",
+     "authorLink": "https://blog.callstack.io/@knowbody",
+     "summary": "He explains how to create a React Native App written in ReasonML. Throughout his article you will build a native iOS app with ReasonML",
+     "linkToArticle": "https://blog.callstack.io/getting-started-with-reasonml-and-react-native-299476389c3e"
+ },
+ {
+     "author": "Khoa Nguyen",
+     "authorLink": "https://khoanguyen.me/",
+     "summary": "He demonstrates how to write effective and canonical ReasonReact bindings \"the right way\"",
+     "linkToArticle": "https://khoanguyen.me/writing-reason-react-bindings-the-right-way/"
+ },
+ {
+     "author": "Hari Gopal",
+     "authorLink": "https://twitter.com/harigopal",
+     "summary": "He builds on the ReasonReact tutorial by Jared Forsyth by enhancing application state management. He explains, how to manage shared state without getting buried by dozens of callbacks",
+     "linkToArticle": "https://medium.com/@elvesbane/application-state-in-reasonreact-1626859366a8"
+ },
+ {
+     "author": "Nathan Sculli",
+     "authorLink": "https://github.com/scull7",
+     "summary": "He introduces an interesting implementation of a SQL query builder using Fast Pipes in ReasonML",
+     "linkToArticle": "https://scull7.github.io/bs-sql-composer/index.html"
+ },
+ {
+     "author": "ReasonConf",
+     "authorLink": "https://www.reason-conf.com/",
+     "summary": "Missed the conference? Start watching the recordings from ReasonConf",
+     "linkToArticle": "https://www.youtube.com/watch?v=ADMeIhjaKnQ"
+ },
+ {
+     "author": "Dmytro Gladkyi",
+     "authorLink": "https://twitter.com/DmytroGladkyi",
+     "summary": "He wrote a blog post concerning the creation of bindings for JavaScript to npm packages",
+     "linkToArticle": "https://medium.com/@DmytroGladkyi/reasonml-create-bindings-for-npm-package-b8a3c6d0703e"
+ }
+]

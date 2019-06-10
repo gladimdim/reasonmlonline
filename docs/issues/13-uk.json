@@ -1,0 +1,20 @@
+[
+    {
+        "author": "David Kopal",
+        "authorLink": "https://twitter.com/coding_lawyer",
+        "summary": "Опублікував слайди до його промови 'Використовуйте Reason в React програмах'.",
+        "linkToArticle": "https://speakerdeck.com/codinglawyer/use-reason-in-your-react-applications"
+    },
+    {
+	"author": "Ken Wheeler",
+	"authorLink": "https://twitter.com/ken_wheeler",
+	"summary": "Презентував мову ReasonML на конференції React Rally",
+	"linkToArticle": "https://www.youtube.com/watch?time_continue=1513&v=ii-T6HrkZFM"
+    },
+    {
+	"author": "Reason Town",
+	"authorLink": "https://reason.town",
+	"summary": "Опублікували новий епізод свого подкасту. В цей раз вони обговорюють асинхроне програмування в ReasonML, новий плагін до текстового редактору та багато іншого.",
+	"linkToArticle": "https://reason.town/potpourri"
+    }
+]

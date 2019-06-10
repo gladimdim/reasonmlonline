@@ -1,0 +1,26 @@
+[
+    {
+	"author": "Gabriel Rubens Abreu",
+	"authorLink": "https://twitter.com/_gabrielrubens",
+	"summary": "Використання параметричних типів ReasonML в ReasonReact component.",
+	"linkToArticle": "https://medium.com/astrocoders/how-to-use-reasonml-parametric-types-on-a-reasonreact-bound-component-19a2ccb2ee35"
+    },
+    {
+	"author": "Jack Franklin",
+	"authorLink": "https://twitter.com/Jack_Franklin/",
+	"summary": "Описав свої пригоди під час вирішення задач Advent of Code за допомогою @reasonml.",
+	"linkToArticle": "https://twitter.com/Jack_Franklin/status/1088048523986300928"
+    },
+    {
+	"author": "Seif Ghezala",
+	"authorLink": "https://twitter.com/seif_ghezala",
+	"summary": "Опублікував статтю: ReasonML & TypeScript, порівняння їх системи типів.",
+	"linkToArticle": "https://twitter.com/seif_ghezala/status/1091316011968671745?s=20"
+    },
+    {
+	"author": "Rolf Erik Lekang",
+	"authorLink": "https://twitter.com/relekang/",
+	"summary": "Wrote a blogpost about creating CLIs with native @reasonml",
+	"linkToArticle": "https://twitter.com/relekang/status/1095988881957236736?s=20"
+    }
+]

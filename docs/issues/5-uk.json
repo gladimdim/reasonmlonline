@@ -1,0 +1,38 @@
+[
+    {
+	"author": "Jake Trent",
+	"authorLink": "https://twitter.com/jaketrent/",
+	"summary": "Написав посібник про те, як писати тести для ReasonML. Він використав бібліотеку Jest, тому API має бути вам відомим.",
+	"linkToArticle": "https://jaketrent.com/post/unit-testing-in-reasonml/"
+    },
+    {
+	"author": "Jared Palmer",
+	"authorLink": "https://twitter.com/jaredpalmer",
+	"summary": "Додав підтримку Reason React до його Razzle (інструментарій для серверного рендерингу сторінок). Цей інструментарій не має жодних конфігурацій і його можна використовувати для універсальних програм на JS.",
+	"linkToArticle": "https://github.com/jaredpalmer/razzle/tree/master/examples/with-reason-react"
+    },
+    {
+	"author": "Mateusz Zatorski",
+	"authorLink": "https://mobile.twitter.com/matzatorski/",
+	"summary": "Опублікував нову зв'язку для react-native: Rebolt.",
+	"linkToArticle": "https://rebolt.callstack.com"
+    },
+    {
+	"author": "Alex Fedoseev",
+	"authorLink": "https://github.com/alexfedoseev/",
+	"summary": "Написав тягни-і-кидай бібліотеку на Reason.",
+	"linkToArticle": "https://github.com/alexfedoseev/re-dnd"
+    },
+    {
+	"author": "Vladimir Novick",
+	"authorLink": "https://twitter.com/VladimirNovick",
+	"summary": "Надав невеличку доповідь про React Native на Reason Conf 2018.",
+	"linkToArticle": "https://www.youtube.com/watch?v=fuOxPzoqfz8"
+    },
+    {
+	"author": "Vladimir Novick",
+	"authorLink": "https://twitter.com/VladimirNovick",
+	"summary": "Створив слайди про те, чому ReasonML офігенний 😁",
+	"linkToArticle": "https://www.beautiful.ai/player/-LFVmd97j0a1_368jJNf"
+    }
+]

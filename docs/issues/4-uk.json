@@ -1,0 +1,38 @@
+[
+    {
+	"author": "Dr. Axel Rauschmayer",
+	"authorLink": "http://reasonmlhub.com/exploring-reasonml/",
+	"summary": "Опублікував книжку про ReasonML. Якщо ви тільки-но починаєте вивчати цю мову, то ця книжка має бути першим матеріалом по її вивченню.",
+	"linkToArticle": "http://reasonmlhub.com/exploring-reasonml/"
+    },
+    {
+	"author": "Repl.it",
+	"authorLink": "repl.it",
+	"summary": "Додали пітримку для програм написаних на ReasonReact. Тепер ви можете писати ReasonReact програми прямо в веб-переглядачі!",
+	"linkToArticle": "https://repl.it/site/blog/react"
+    },
+    {
+	"author": "Zach Wegrzyniak",
+	"authorLink": "https://medium.com/@zwegrzyniak",
+	"summary": "Написав статтю, в якій він переглянув декілька мов, які компілюються в JavaScript. Список включає ReasonML, TypeScript, PureScript.",
+	"linkToArticle": "https://medium.com/@zwegrzyniak/compile-to-js-language-codegen-b5ceb9439a05"
+    },
+    {
+	"author": "Flavio Corpa",
+	"authorLink": "https://twitter.com/FlavioCorpa",
+	"summary": "Зробив загальний огляд конференції ReasonConf 2018.",
+	"linkToArticle": "https://blog.g2i.co/what-i-learned-at-reasonconf-2018-9b5506adc810?gi=ab1d1bd0052"
+    },
+    {
+	"author": "ReasonConf 2018",
+	"authorLink": "https://www.reason-conf.com",
+	"summary": "Опублікували нове відео. Цього разу Володимир Курчаткін показує, як створювати плагіни для Node.js в ReasonML.",
+	"linkToArticle": "https://youtu.be/EEIGi1lP-v0"
+    },
+    {
+	"author": "Jared Forsyth",
+	"authorLink": "http://jaredforsyth.com",
+	"summary": "Розповів його бачення про те, як треба 'руйнувати' зворотню сумісність в вашому API. Дещо уже наявне в інструменті refmt",
+	"linkToArticle": "https://www.youtube.com/watch?v=5Sl5C-5fX1M"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+	"author": "Reasonable Consulting",
+	"authorLink": "https://twitter.com/reasonconsult",
+	"summary": "Published the ReasonML library to work with URL in pure ReasonML.",
+	"linkToArticle": "https://twitter.com/reasonconsult/status/1073743544500789253"
+    },
+    {
+	"author": "ReasonML London",
+	"authorLink": "https://twitter.com/ReasonLDN",
+	"summary": "Published their videos from latest meetup.",
+	"linkToArticle": "https://twitter.com/ReasonLDN/status/1073501356776939521"
+    },
+    {
+	"author": "reason-reactify",
+	"authorLink": "https://github.com/revery-ui/reason-reactify",
+	"summary": " Transform a mutable tree into a functional React-like API.",
+	"linkToArticle": "https://github.com/revery-ui/reason-reactify"
+    },
+    {
+	"author": "Alex Fedoseev",
+	"authorLink": "https://twitter.com/alexfedoseev",
+	"summary": "Published library bs-log, which helps to you to log data in ReasonML with 0 runtime cost in production builds!",
+	"linkToArticle": "https://twitter.com/alexfedoseev/status/1077832940027994112"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+	"author": "Seena Burns",
+	"authorLink": "http://seenaburns.com/",
+	"summary": "Створив переглядач картинок для настільного комп'ютера з використанням Reason React та Electron",
+	"linkToArticle": "https://github.com/seenaburns/isolate?files=1"
+    },
+    {
+	"author": "Alex Fedoseev",
+	"authorLink": "https://alexfedoseev.com/",
+	"summary": "Опублікував бібліотеку 'Formality' для валідацій форм на веб сторінці.",
+	"linkToArticle": "https://github.com/alexfedoseev/re-formality"
+    },
+    {
+	"author": "Sam Slotsky",
+	"authorLink": "https://twitter.com/sawtoothsamo",
+	"summary": "Створив приклад, як ми можемо використовувати Parcel замисть Webpack для побудови збірок.",
+	"linkToArticle": "https://blog.manifold.co/building-reason-react-with-parcel-bundler-cb651278bf47"
+    },
+    {
+	"author": "Prabhakar Ragde",
+	"authorLink": "https://twitter.com/plragde",
+	"summary": "Знайшлась чудова книга 'Functional Data Structures'. В ній використовується мова OCaml в прикладах. Якщо вам цікаво, як реалізовувати класичні алгоритми і структури даних на ReasonML/OCaml, то це чудова знахідка.",
+	"linkToArticle": "https://cs.uwaterloo.ca/~plragde/flaneries/FDS/Introduction.html"
+    },
+    {
+	"author": "Kennet Postigo @ ReasonTraining",
+	"authorLink": "https://twitter.com/ReasonTraining",
+	"summary": "Опублікував першу статтю про структури даних 'Let's make a Binary Search Tree'. Чудова інформація про основні структури даних в ReasonML",
+	"linkToArticle": "https://medium.com/reasontraining/lets-make-a-reasonable-binary-search-tree-35628b2c78f7"
+    },
+    {
+	"author": "Hongbo Zhang",
+	"authorLink": "https://twitter.com/bobzhang1988",
+	"summary": "Надав невеличку доповідь про те, як займатися відладкою коду, який написаний на одній мові, але компілюється в зовсім іншу.",
+	"linkToArticle": "https://twitter.com/reasonconf/status/1012236410206785536?s=21"
+    },
+    {
+	"author": "Glenn Slotte",
+	"authorLink": "https://github.com/glennsl",
+	"summary": "Зробив презентацію свого сайту redex, який є індексом пакетів, написаних на BuckleScript або ReasonML",
+	"linkToArticle": "https://www.youtube.com/watch?v=I9kjthbRXnc"
+    },
+    {
+	"author": "Steven Scaffidi",
+	"authorLink": "https://twitter.com/Steven_Scaffidi",
+	"summary": "Як обробляти жести в React Native в ReasonML",
+	"linkToArticle": "https://blog.g2i.co/react-native-gesture-handling-with-reasonml-7307151f73f"
+    },
+    {
+	"author": "Mike Grabowski",
+	"authorLink": "https://twitter.com/grabbou",
+	"summary": "Випустили новий форк bs-react-native під назвою Rebolt.",
+	"linkToArticle": "https://blog.callstack.io/announcing-rebolt-207a1686a242"
+    },
+    {
+	"author": "Vladimir Keleshev",
+	"authorLink": "http://keleshev.com/",
+	"summary": "Написав статтю про те, як використовувати polymorphic variants для обробки помилок в OCaml. В статті наведено декілка підходів.",
+	"linkToArticle": "http://keleshev.com/composable-error-handling-in-ocaml"
+    }
+]

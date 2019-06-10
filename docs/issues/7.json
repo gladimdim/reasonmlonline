@@ -1,0 +1,32 @@
+[
+    {
+	"author": "Protoship",
+	"authorLink": "https://github.com/protoship",
+	"summary": "Adapted Jane Street's workshop tasks to ReasonML. You can try doing these tasks to get familiar with the language.",
+	"linkToArticle": "https://github.com/protoship/learn-reasonml-workshop"
+    },
+    {
+	"author": "Kent C. Dodds",
+	"authorLink": "https://twitter.com/kentcdodds",
+	"summary": "Published 'Intro to ReasonML Syntax from a JavaScript perspective'.",
+	"linkToArticle": "https://www.youtube.com/watch?v=sOgJTcB4Tb8"
+    },
+    {
+	"author": "Peter Piekarczyk",
+	"authorLink": "https://twitter.com/peterpme",
+	"summary": "Put his slides online from ReactJSChicago from his presentation: 'ReasonML - A Love Story'.",
+	"linkToArticle": "https://twitter.com/peterpme/status/1015307178880765952?s=17"
+    },
+    {
+	"author": "BuckleScript",
+	"authorLink": "https://bucklescript.github.io/",
+	"summary": "Released the new 4.0 version of BuckleScript compiler.",
+	"linkToArticle": "https://bucklescript.github.io/blog/2018/07/17/release-4-0-0"
+    },
+    {
+	"author": "Javier Chávarri",
+	"authorLink": "https://medium.com/@javierwchavarri",
+	"summary": "Explores why the BuckleScript compiler's output of immutable records is so performant.",
+	"linkToArticle": "https://medium.com/@javierwchavarri/performance-of-records-in-bucklescript-ecf6566fff5c"
+    }
+]

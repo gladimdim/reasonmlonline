@@ -1,0 +1,20 @@
+[
+    {
+	"author": "Vladimir Novick",
+	"authorLink": "https://twitter.com/VladimirNovick",
+	"summary": "Created Twitch series for his upcomfing ReasonML streams.",
+	"linkToArticle": "https://twitter.com/VladimirNovick/status/1055375447838597121"
+    },
+    {
+	"author": "David Kopal",
+	"authorLink": "https://twitter.com/coding_lawyer",
+	"summary": "Created bindings for React Native ImageEditor API.",
+	"linkToArticle": "https://twitter.com/coding_lawyer/status/1055484870355570688"
+    },
+    {
+	"author": "Marko Dimjašević",
+	"authorLink": "https://dimjasevic.net/marko/",
+	"summary": "Published his article 'Typed Functional Programming and Software Correctness'.",
+	"linkToArticle": "https://dimjasevic.net/marko/2018/10/23/typed-functional-programming-and-software-correctness/"
+    }
+]

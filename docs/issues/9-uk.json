@@ -1,0 +1,26 @@
+[
+    {
+	"author": "Alireza Alidousti",
+	"authorLink": "https://twitter.com/eva_u23",
+	"summary": "Написав статтю про те, з чого почати вивчення ReasonML.",
+	"linkToArticle": "https://medium.freecodecamp.org/how-to-get-started-with-reason-cef7ab40660"
+    },
+    {
+	"author": "A. Sharif",
+	"authorLink": "https://twitter.com/sharifsbeat",
+	"summary": "Реалізував Stack на ReasonML.",
+	"linkToArticle": "https://twitter.com/sharifsbeat/status/1020276673172865026?s=20"
+    },
+    {
+	"author": "Reason Training",
+	"authorLink": "https://twitter.com/ReasonTraining",
+	"summary": "Опублікував дві нові статті про типи.",
+	"linkToArticle": "https://twitter.com/ReasonTraining/status/1020355626168389632?s=20"
+    },
+    {
+	"author": "Khoa Nguyen",
+	"authorLink": "https://twitter.com/thangngoc89",
+	"summary": "Запрограмував інтерактивний онлайн інтерпретатор ReasonML REPL: rtop_online.",
+	"linkToArticle": "https://twitter.com/thangngoc89/status/1020722821062770688"
+    }
+]

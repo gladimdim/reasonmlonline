@@ -1,0 +1,20 @@
+[
+    {
+        "author": "Hashrocket Project",
+        "authorLink": "https://twitter.com/hashrockettil",
+        "summary": "Загорніть ReasonReact компоненту для використання в JavaScript",
+        "linkToArticle": "https://til.hashrocket.com/posts/yeex3ujiou-wrap-a-reasonreact-component-for-use-in-javascript"
+    },
+    {
+	"author": "Parker Ziegler",
+	"authorLink": "https://twitter.com/parker_ziegler/",
+	"summary": "Опублікував Reason зв'язки з Formidable's Universal React Query Library, urql",
+	"linkToArticle": "https://twitter.com/parker_ziegler/status/1049122369904635904"
+    },
+    {
+	"author": "John Haley",
+	"authorLink": "https://medium.com/@johnhaley81/",
+	"summary": "Опублікував першу частину своєї статті 'Навіщо вибирати ReasonML?",
+	"linkToArticle": "https://medium.com/@johnhaley81/why-reasonml-part-1-8a975bbcf5f7"
+    }
+]

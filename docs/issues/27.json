@@ -1,0 +1,38 @@
+[
+	{
+		"author": "Blaine Bublitz",
+		"authorLink": "https://twitter.com/BlaineBublitz",
+		"summary": "Published twitch video 'Phoenix Reason (February 19th, 2019) - Native Reason Extravaganza'.",
+		"linkToArticle": "https://www.twitch.tv/videos/383974660"
+	},
+	{
+		"author": "Leandro Ostera",
+		"authorLink": "https://twitter.com/leostera",
+		"summary": "Created new library Reactor: Native Actors for Reason and OCaml.",
+		"linkToArticle": "https://twitter.com/leostera/status/1101144177906274304?s=20"
+	},
+	{
+		"author": "Misha Moroshko",
+		"authorLink": "https://twitter.com/moroshko",
+		"summary": "Having troubles writing bindings for ReasonML? Misha Moroshko covered all 'bs-blabla' cases.",
+		"linkToArticle": "https://twitter.com/moroshko/status/1102457283773030400?s=20"
+	},
+	{
+		"author": "Ben Lovy",
+		"authorLink": "https://dev.to/deciduously",
+		"summary": "Real-Time Communication in ReasonML with bs-socket.",
+		"linkToArticle": "https://twitter.com/ReasonLDN/status/1102886923427819520?s=20"
+	},
+	{
+		"author": "ReasonConf",
+		"authorLink": "https://mobile.twitter.com/reasonconf/",
+		"summary": "Second Reason conference schedule is now online.",
+		"linkToArticle": "https://mobile.twitter.com/reasonconf/status/1103320259942072320"
+	},
+	{
+		"author": "Yuki Li",
+		"authorLink": "https://medium.com/@yukims19",
+		"summary": "What I Enjoyed — and Suffered from — Writing ReasonML Code as a Junior Engineer.",
+		"linkToArticle": "https://medium.com/@yukims19/journey-with-reasonml-as-a-junior-developer-17ee53a25fa7"
+	}
+]

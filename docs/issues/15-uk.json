@@ -1,0 +1,26 @@
+[
+    {
+        "author": "Jared Forsyth",
+        "authorLink": "https://jaredforsyth.com",
+        "summary": "Розгортання Reason/OCaml програм на платформі Zeit now.sh",
+        "linkToArticle": "https://jaredforsyth.com/posts/deploying-native-reason-ocaml-with-now-sh/"
+    },
+    {
+        "author": "Murphy Randle",
+        "authorLink": "https://dev.to/splodingsocks",
+        "summary": "Як отримати допомогу від компілятора, навіть з “рядковими” типізованими параметрами в ReasonML.",
+        "linkToArticle": "https://dev.to/splodingsocks/get-compiler-help-even-with-stringly-typed-parameters-in-reasonml-438k"
+    },
+    {
+        "author": "Dave Aitken",
+        "authorLink": "https://medium.com/imandra/",
+        "summary": "Перевірка логіки компонент в ReasonReact — ReasonML & Imandra.",
+        "linkToArticle": "https://medium.com/imandra/verifying-reasonreact-component-logic-reasonml-imandra-e350d4812a9f"
+    },
+    {
+        "author": "Jakub Korzeniowski",
+        "authorLink": "https://twitter.com/carkujon/",
+        "summary": "Опублікував слайди з його промови під назвою 'Naturally Hacked Together in Reason'",
+        "linkToArticle": "https://github.com/kujon/reason-ldn-talk"
+    }
+]

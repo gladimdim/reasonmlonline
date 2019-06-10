@@ -1,0 +1,20 @@
+[
+    {
+        "author": "David Kopal",
+        "authorLink": "https://twitter.com/coding_lawyer",
+        "summary": "Published slides from his talk 'Use Reason in your React Applications'.",
+        "linkToArticle": "https://speakerdeck.com/codinglawyer/use-reason-in-your-react-applications"
+    },
+    {
+	"author": "Ken Wheeler",
+	"authorLink": "https://twitter.com/ken_wheeler",
+	"summary": "Gave a talk about Reason React at React Rally conference.",
+	"linkToArticle": "https://www.youtube.com/watch?time_continue=1513&v=ii-T6HrkZFM"
+    },
+    {
+	"author": "Reason Town",
+	"authorLink": "",
+	"summary": "Published new episode of Reason Town Podcast. They talk about async/await in ReasonML, new editor plugin and more.",
+	"linkToArticle": "https://reason.town/potpourri"
+    }
+]

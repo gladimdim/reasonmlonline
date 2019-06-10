@@ -1,0 +1,38 @@
+[
+	{
+		"author": "Blaine Bublitz",
+		"authorLink": "https://twitter.com/BlaineBublitz",
+		"summary": "Виклав своє відео з зустрічі під назвою 'Phoenix Reason (February 19th, 2019) - Native Reason Extravaganza'.",
+		"linkToArticle": "https://www.twitch.tv/videos/383974660"
+	},
+	{
+		"author": "Leandro Ostera",
+		"authorLink": "https://twitter.com/leostera",
+		"summary": "Створив нову бібліотеку: Native Actors for Reason and OCaml.",
+		"linkToArticle": "https://twitter.com/leostera/status/1101144177906274304?s=20"
+	},
+	{
+		"author": "Misha Moroshko",
+		"authorLink": "https://twitter.com/moroshko",
+		"summary": "Мучаєтесь з написаням зв'язок між ReasonML та JavaScript? Міша Морошко описав всі застосування 'bs-щось-там'.",
+		"linkToArticle": "https://twitter.com/moroshko/status/1102457283773030400?s=20"
+	},
+	{
+		"author": "Ben Lovy",
+		"authorLink": "https://dev.to/deciduously",
+		"summary": "Спілкування в режимі реального часу в ReasonML за допомогою бібліотеки bs-socket.",
+		"linkToArticle": "https://twitter.com/ReasonLDN/status/1102886923427819520?s=20"
+	},
+	{
+		"author": "ReasonConf",
+		"authorLink": "https://mobile.twitter.com/reasonconf/",
+		"summary": "Розклад другої Reason конференції уже в доступі.",
+		"linkToArticle": "https://mobile.twitter.com/reasonconf/status/1103320259942072320"
+	},
+	{
+		"author": "Yuki Li",
+		"authorLink": "https://medium.com/@yukims19",
+		"summary": "Що мені сподобалось, і як я страждав під час використання ReasonML в якості молодшого розробника.",
+		"linkToArticle": "https://medium.com/@yukims19/journey-with-reasonml-as-a-junior-developer-17ee53a25fa7"
+	}
+]

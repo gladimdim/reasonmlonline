@@ -1,0 +1,55 @@
+[{
+    "author": "Dmytro Gladkyi",
+    "authorLink": "https://twitter.com/DmytroGladkyi",
+    "summary": "Написав нову статтю про використання API, основаному на Promise, в ReasonML.",
+    "linkToArticle": "https://medium.com/@DmytroGladkyi/how-to-use-a-promise-based-api-from-a-javascript-library-in-reasonml-fa2d63e18bbc"
+},
+ {
+     "author": "Guillaume Salles",
+     "authorLink": "https://twitter.com/guillaume_slls",
+     "summary": "створив Resuggest - інструмент, для підбору функцій на основі вхідних та вихідних даних.",
+     "linkToArticle": "https://twitter.com/guillaume_slls/status/998955795671810049?s=20"
+ },
+ {
+     "author": "ReasonML Dojo",
+     "authorLink": "https://www.meetup.com/ReasonML-STHLM/events/250916529/",
+     "summary": "Відбудеться 27 Травня 2018 року. Це глобальна подія, яка проводитиметься в 25 містах.",
+     "linkToArticle": "https://www.meetup.com/en-AU/reasonml-amsterdam/events/250910214/"
+ },
+ {
+     "author": "BuckleScript",
+     "authorLink": "https://bucklescript.github.io/",
+     "summary": "Випустили BuckleScript 3.1. Основні зміни: Fast Pipes, Js.Boolean був видалений і доданий назад, краща відладка ReasonML записів.",
+     "linkToArticle": "https://bucklescript.github.io/blog/2018/05/21/release-3-1-0.html"
+ },
+ {
+     "author": "Nik Graf",
+     "authorLink": "https://twitter.com/nikgraf",
+     "summary": "Опублікував курс ReasonML на Egghead.io. Варто його продивиться, навіть якщо ви уже маєте досвід в ReasonML.",
+     "linkToArticle": "https://egghead.io/courses/get-started-with-reason"
+ },
+ {
+     "author": "David Kopal",
+     "authorLink": "https://twitter.com/coding_lawyer",
+     "summary": "створив посібник 'Learn ReasonML by building Tic Tac Toe in React'. Це дуже гарний приклад, який не схожий на класичний Todo List.",
+     "linkToArticle": "https://medium.freecodecamp.org/learn-reasonml-by-building-tic-tac-toe-in-react-334203dd513c"
+ },
+ {
+     "author": "Zaiste",
+     "authorLink": "https://hackernoon.com/@zaiste",
+     "summary": "Випустили нову статтю: 'Reason in a Nutshell'",
+     "linkToArticle": "https://hackernoon.com/reason-in-a-nutshell-getting-started-guide-78c05ebc5d4"
+ },
+ {
+     "author": "Lorefnon.tech",
+     "authorLink": "https://lorefnon.tech/author/waklydwh/",
+     "summary": "Зробили порівняння TypeScript та ReasonML",
+     "linkToArticle": "https://lorefnon.tech/2018/05/13/reasonml-vs-typescript-first-impressions/"
+ },
+ {
+     "author": "BuckleScript Team",
+     "authorLink": "http://bucklescript.github.io",
+     "summary": "Запропонували стандартну бібліотеку для BuckleScript.",
+     "linkToArticle": "https://bucklescript.github.io/bucklescript/api/Belt.html"
+ }
+]

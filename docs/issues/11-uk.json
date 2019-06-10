@@ -1,0 +1,26 @@
+[
+    {
+        "author": "Daniil Baturin",
+        "authorLink": "https://blog.baturin.org/",
+        "summary": "Опублікував три статті під назвою 'Introduction to OCaml'.",
+        "linkToArticle": "https://blog.baturin.org/introduction-to-ocaml.html"
+    },
+    {
+        "author": "Pedro Polo",
+        "authorLink": "https://www.imaginarycloud.com/blog/author/pedro-rolo/",
+        "summary": "ReasonML - це React, яким його було задумано.",
+        "linkToArticle": "https://www.imaginarycloud.com/blog/reasonml-react-as-first-intended/"
+    },
+    {
+        "author": "ReasonReact",
+        "authorLink": "",
+        "summary": "Випустили нову версію ReasonReact 0.5. До змін ввійшло наступне: видалили підписки, додали фрагменти, покращили API для подій.",
+        "linkToArticle": "https://reasonml.github.io/reason-react/blog/2018/08/06/050"
+    },
+    {
+        "author": "ReasonML",
+        "authorLink": "https://github.com/facebook/reason/",
+        "summary": "Випустили нову версію ReasonML 3.3.2. До змін ввійшло наступне: новий синтаксис для fast pipe '->', покращили текст помилок, PPX для фрагментів в ReasonReact.",
+        "linkToArticle": "https://github.com/facebook/reason/blob/master/HISTORY.md#332"
+    }
+]

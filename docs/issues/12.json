@@ -1,0 +1,26 @@
+[
+    {
+        "author": "Khoa Nguyen",
+        "authorLink": "https://twitter.com/thangngoc89",
+        "summary": "Sketch.sh - Interactive ReasonML sketchbook.",
+        "linkToArticle": "https://sketch.sh"
+    },
+    {
+        "author": "ReasonML London",
+        "authorLink": "https://mobile.twitter.com/ReasonLDN/",
+        "summary": "Announced their new meetup in September",
+        "linkToArticle": "https://www.meetup.com/ReasonLDN/events/253749055/"
+    },
+    {
+        "author": "Murphy Randle",
+        "authorLink": "https://twitter.com/splodingsocks",
+        "summary": "A quick explanation about fast piping (-> and |.) in ReasonML.",
+        "linkToArticle": "https://dev.to/splodingsocks/a-quick-explanation-about---and--in-reasonml-5329"
+    },
+    {
+        "author": "Reason Town Podcast",
+        "authorLink": "https://twitter.com/ReasonTownFM",
+        "summary": "Announced 'The State of Reason Survey!'. Please answer questions in their google form (2 minutes of your time).",
+        "linkToArticle": "https://twitter.com/ReasonTownFM/status/1030122158469525504"
+    }
+]

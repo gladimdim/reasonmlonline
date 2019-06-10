@@ -1,0 +1,38 @@
+[
+	{
+		"author": "Javier Chávarri",
+		"authorLink": "https://twitter.com/javierwchavarri",
+		"summary": "Inference engines: 5 examples with TypeScript, Flow and Reason.",
+		"linkToArticle": "https://codeburst.io/inference-engines-5-examples-with-typescript-flow-and-reason-edef2f4cf2d3"
+	},
+	{
+		"author": "Kay F. Plößer",
+		"authorLink": "https://twitter.com/K4y1s",
+		"summary": "Revery - Cross-Platform Desktop Apps With Reason.",
+		"linkToArticle": "https://dev.to/kayis/revery---cross-platform-desktop-apps-with-reason-2efj"
+	},
+	{
+		"author": "Joe Crick",
+		"authorLink": "https://itnext.io/@joseph0crick",
+		"summary": "Decoding Nested JSON Objects in ReasonML with bs-json.",
+		"linkToArticle": "https://itnext.io/decoding-nested-json-objects-in-reasonml-with-bs-json-4cab75fbe3080"
+	},
+	{
+		"author": "LEANDRO OSTERA",
+		"authorLink": "https://ostera.io/",
+		"summary": "An unofficial collection of design patterns for Reason and OCaml.",
+		"linkToArticle": "https://github.com/ostera/reason-design-patterns"
+	},
+	{
+		"author": "https://twitter.com/_hagnerd/",
+		"authorLink": "https://twitter.com/_hagnerd/",
+		"summary": "Wrote a thing on @ThePracticalDev about getting started with @reasonml , @reactjs , and @parceljs.",
+		"linkToArticle": "https://twitter.com/_hagnerd/status/1097710369227845632"
+	},
+	{
+		"author": "Cleverti",
+		"authorLink": "https://medium.com/@cleverti",
+		"summary": "Reasonable Channels in Functional Style.",
+		"linkToArticle": "https://medium.com/@cleverti/reasonable-channels-in-functional-style-1ae7d71f41db"
+	}
+]

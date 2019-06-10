@@ -1,0 +1,12 @@
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+/lib
+# Build directory
+/public/*.js
+/dat/public
+.DS_Store
+*.bs.js
+*.*~
+.merlin

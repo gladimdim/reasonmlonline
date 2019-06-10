@@ -1,0 +1,20 @@
+[
+    {
+	"author": "Vladimir Novick",
+	"authorLink": "https://twitter.com/VladimirNovick",
+	"summary": "Розпочав серію на Twitch, де він публікує відео про ReasonML.",
+	"linkToArticle": "https://twitter.com/VladimirNovick/status/1055375447838597121"
+    },
+    {
+	"author": "David Kopal",
+	"authorLink": "https://twitter.com/coding_lawyer",
+	"summary": "Створив прив'язки до React Native ImageEditor API.",
+	"linkToArticle": "https://twitter.com/coding_lawyer/status/1055484870355570688"
+    },
+    {
+	"author": "Marko Dimjašević",
+	"authorLink": "https://dimjasevic.net/marko/",
+	"summary": "Опублікував свою статтю під назвою 'Typed Functional Programming and Software Correctness'.",
+	"linkToArticle": "https://dimjasevic.net/marko/2018/10/23/typed-functional-programming-and-software-correctness/"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "author": "Daniil Baturin",
+        "authorLink": "https://blog.baturin.org/",
+        "summary": "Published three articles of 'Introduction to OCaml'.",
+        "linkToArticle": "https://blog.baturin.org/introduction-to-ocaml.html"
+    },
+    {
+        "author": "Pedro Polo",
+        "authorLink": "https://www.imaginarycloud.com/blog/author/pedro-rolo/",
+        "summary": "ReasonML - React as first intended.",
+        "linkToArticle": "https://www.imaginarycloud.com/blog/reasonml-react-as-first-intended/"
+    },
+    {
+        "author": "ReasonReact",
+        "authorLink": "",
+        "summary": "Released the new version of ReasonReact 0.5. Changes include: removed subscriptions, Fragments support, improved Events.",
+        "linkToArticle": "https://reasonml.github.io/reason-react/blog/2018/08/06/050"
+    },
+    {
+        "author": "ReasonML",
+        "authorLink": "https://github.com/facebook/reason/",
+        "summary": "Released the new version of ReasonML 3.3.2. Changes include: new sugar for fast pipe '->', improved error messages, PPX for ReasonReact Fragments.",
+        "linkToArticle": "https://github.com/facebook/reason/blob/master/HISTORY.md#332"
+    }
+]

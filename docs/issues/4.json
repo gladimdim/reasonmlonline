@@ -1,0 +1,38 @@
+[
+    {
+	"author": "Dr. Axel Rauschmayer",
+	"authorLink": "http://reasonmlhub.com/exploring-reasonml/",
+	"summary": "Published (some time ago) the book on ReasonML. If you are just starting to dive into this beautiful language, then you should definitely buy this book.",
+	"linkToArticle": "http://reasonmlhub.com/exploring-reasonml/"
+    },
+    {
+	"author": "Repl.it",
+	"authorLink": "repl.it",
+	"summary": "Added support for ReasonReact applications. Now you can develop ReasonReact apps just from the browser!",
+	"linkToArticle": "https://repl.it/site/blog/react"
+    },
+    {
+	"author": "Zach Wegrzyniak",
+	"authorLink": "https://medium.com/@zwegrzyniak",
+	"summary": "Wrote an overview article about languages that compile to JS. This includes ReasonML, TypeScript, PureScript.",
+	"linkToArticle": "https://medium.com/@zwegrzyniak/compile-to-js-language-codegen-b5ceb9439a05"
+    },
+    {
+	"author": "Flavio Corpa",
+	"authorLink": "https://twitter.com/FlavioCorpa",
+	"summary": "Summarized his experiences after visiting ReasonConf 2018.",
+	"linkToArticle": "https://blog.g2i.co/what-i-learned-at-reasonconf-2018-9b5506adc810?gi=ab1d1bd0052"
+    },
+    {
+	"author": "ReasonConf 2018",
+	"authorLink": "https://www.reason-conf.com",
+	"summary": "Published a new video. This time Vladimir Kurchatkin talks about building native addons for Node.js in ReasonML.",
+	"linkToArticle": "https://youtu.be/EEIGi1lP-v0"
+    },
+    {
+	"author": "Jared Forsyth",
+	"authorLink": "http://jaredforsyth.com",
+	"summary": "A great talk regarding how to correctly 'break' compatibility of your API in packages. Some of this exists in refmt tool, but there is a call for action to create a complete tool.",
+	"linkToArticle": "https://www.youtube.com/watch?v=5Sl5C-5fX1M"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+	"author": "Adam Recvlohe",
+	"authorLink": "https://medium.com/@arecvlohe/",
+	"summary": "Let’s Build a Simon Game in ReasonReact Pt. 4 Animations",
+	"linkToArticle": "https://medium.com/@arecvlohe/lets-build-a-simon-game-in-reasonreact-pt-4-animations-22ff64414e21"
+    },
+    {
+	"author": "@_gabrielrubens",
+	"authorLink": "https://mobile.twitter.com/_gabrielrubens",
+	"summary": "Published 'Render Props composition for ReasonML is here'",
+	"linkToArticle": "https://mobile.twitter.com/_gabrielrubens/status/1050762948237516805"
+    },
+    {
+	"author": "David Kopal",
+	"authorLink": "https://twitter.com/coding_lawyer",
+	"summary": "Why should you write React in ReasonML?",
+	"linkToArticle": "https://twitter.com/coding_lawyer/status/1052587725281361921?s=20"
+    },
+    {
+	"author": "donut2D",
+	"authorLink": "http://donut2d.tumblr.com/",
+	"summary": "Shared his experiences building a URL shortener with OCaml and ReasonML",
+	"linkToArticle": "http://donut2d.tumblr.com/post/171205516399/my-experiences-building-a-url-shortener-with-ocaml"
+    },
+    {
+	"author": "Flavio Corpa",
+	"authorLink": "https://twitter.com/FlavioCorpa",
+	"summary": "Common JavaScript Idioms in ReasonML",
+	"linkToArticle": "https://blog.g2i.co/common-javascript-idioms-in-reasonml-900a731b5620"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "author": "Hashrocket Project",
+        "authorLink": "https://twitter.com/hashrockettil",
+        "summary": "Wrap A ReasonReact Component For Use In JavaScript",
+        "linkToArticle": "https://til.hashrocket.com/posts/yeex3ujiou-wrap-a-reasonreact-component-for-use-in-javascript"
+    },
+    {
+	"author": "Parker Ziegler",
+	"authorLink": "https://twitter.com/parker_ziegler/",
+	"summary": "Published Reason bindings for Formidable's Universal React Query Library, urql",
+	"linkToArticle": "https://twitter.com/parker_ziegler/status/1049122369904635904"
+    },
+    {
+	"author": "John Haley",
+	"authorLink": "https://medium.com/@johnhaley81/",
+	"summary": "Published his article 'Why ReasonML? (Part 1)'",
+	"linkToArticle": "https://medium.com/@johnhaley81/why-reasonml-part-1-8a975bbcf5f7"
+    }
+]

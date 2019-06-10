@@ -1,0 +1,26 @@
+[
+    {
+        "author": "Jared Forsyth",
+        "authorLink": "https://jaredforsyth.com",
+        "summary": "Deploying Native Reason/OCaml with Zeit's now.sh",
+        "linkToArticle": "https://jaredforsyth.com/posts/deploying-native-reason-ocaml-with-now-sh/"
+    },
+    {
+        "author": "Murphy Randle",
+        "authorLink": "https://dev.to/splodingsocks",
+        "summary": "Get compiler help, even with “stringly” typed parameters in ReasonML.",
+        "linkToArticle": "https://dev.to/splodingsocks/get-compiler-help-even-with-stringly-typed-parameters-in-reasonml-438k"
+    },
+    {
+        "author": "Dave Aitken",
+        "authorLink": "https://medium.com/imandra/",
+        "summary": "Verifying ReasonReact component logic — ReasonML & Imandra.",
+        "linkToArticle": "https://medium.com/imandra/verifying-reasonreact-component-logic-reasonml-imandra-e350d4812a9f"
+    },
+    {
+        "author": "Jakub Korzeniowski",
+        "authorLink": "https://twitter.com/carkujon/",
+        "summary": "Published slides from his talk 'Naturally Hacked Together in Reason'",
+        "linkToArticle": "https://github.com/kujon/reason-ldn-talk"
+    }
+]

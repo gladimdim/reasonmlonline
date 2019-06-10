@@ -1,0 +1,26 @@
+[
+    {
+	"author": "ReasonML London",
+	"authorLink": "https://twitter.com/ReasonLDN",
+	"summary": "Оголосив про нову зустріч в Лондоні стосовно мови ReasonML.",
+	"linkToArticle": "https://twitter.com/ReasonLDN/status/1017721549120405505"
+    },
+    {
+	"author": "Anton Bachin",
+	"authorLink": "https://github.com/aantron",
+	"summary": "Опублікував бібліотеку для роботи з асинхроним кодом в ReasonML, заснована на JS Promise.",
+	"linkToArticle": "https://github.com/aantron/repromise#readme"
+    },
+    {
+	"author": "Khoa Nguyen",
+	"authorLink": "https://twitter.com/thangngoc89",
+	"summary": "Показали свій новий онлайн інтерактивний інтерпретатор ReasonML",
+	"linkToArticle": "https://twitter.com/thangngoc89/status/1019704803742474240?s=20"
+    },
+    {
+	"author": "A. Sharif",
+	"authorLink": "https://twitter.com/sharifsbeat",
+	"summary": "Слідкуйте за його твітером. Він пообіцяв публікувати один раз в день реалізацію нової структури даних на ReasonML.",
+	"linkToArticle": "https://twitter.com/sharifsbeat/status/1019898141737390080"
+    }
+]
