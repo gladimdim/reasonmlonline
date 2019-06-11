@@ -6,7 +6,7 @@ type tIssue = {
 };
 
 module Decode = {
-  let decodeIssue = input : tIssue =>
+  let decodeIssue = input: tIssue =>
     Json.Decode.{
       author: input |> field("author", string),
       authorLink: input |> field("authorLink", string),
@@ -33,7 +33,7 @@ type state = {
 let getLanguageFromURL = (url: ReasonReact.Router.url) =>
   Js.String.includes("language=uk", url.hash) ? `Ukrainian : `English;
 
-let getIssueSuffix = (lang: tLang) : string =>
+let getIssueSuffix = (lang: tLang): string =>
   switch (lang) {
   | `Ukrainian => "-uk"
   | `English => ""
@@ -66,9 +66,9 @@ let make = (~issueNumber: int, _children) => {
           self =>
             Js.Promise.(
               Fetch.fetch(
-                "/issues/"
+                "./issues/"
                 ++ string_of_int(issueNumber)
-                ++ (state.language |. getIssueSuffix)
+                ++ state.language->getIssueSuffix
                 ++ ".json",
               )
               |> then_(Fetch.Response.json)
